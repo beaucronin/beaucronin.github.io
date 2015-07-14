@@ -1,5 +1,6 @@
 ---
-
+layout: page
+title: Beau Cronin
 ---
 
 * here is
