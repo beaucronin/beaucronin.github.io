@@ -14,11 +14,11 @@ I knew I wanted to try and understand intelligence, and I bounced from neurology
 After Cal, I worked for three years as the chief programmer of the FrameNet project, at the International Computer Science Institute.
 
 Skills & topics:
-* Computational linguistics 
-* Natural language processing
-* Enterprise Java development
-* Requirements gathering
-* Engineering management
+ * Computational linguistics 
+ * Natural language processing
+ * Enterprise Java development
+ * Requirements gathering
+ * Engineering management
 
 Lessons:
 * Linguistics isn't my thing; I don't have the love of language, nor the patience to discuss the minutiae of usage
