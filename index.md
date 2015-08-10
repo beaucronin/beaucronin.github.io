@@ -22,6 +22,7 @@ Skills & topics:
  * Engineering management
 
 Lessons:
+
 * Linguistics isn't my thing; I don't have the love of language, nor the patience to discuss the minutiae of usage
 
 # Grad School - MIT Department of Brain and Cognitive Sciences 2003-2008
