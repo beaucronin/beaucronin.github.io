@@ -46,7 +46,14 @@ Skills & Topics:
 * Probabilistic modeling & inference
 * Probabilistic programming
 * Stochastic hardware architecture
-* Data science
+* Data science process and workflow
+* Raising money and managing investors
+
+Lessons:
+
+* I gained a healthy fear of the all-in startup lifestyle, which I'm still working through.
+* Importance of focus and saying "no"
+  * Four founders with equal stakes is a recipe for stalemate
 
 # Prior Knowledge 2011-2012
 
@@ -56,10 +63,27 @@ Skills & topics:
 * Product management
 * Data science
 * Cloud service architecture and operations
+* Developer and community relations
+* Shipping
 
 # Salesforce Part 1 2012-2014
+
+(Much of this will have to wait a bit longer to get filled in)
+
+Skills & topics:
+
+* Product management
+* Big-company dynamics and rhythms
+* Company politics
+
+Lessons:
+
+* There's a big difference between innovation on small teams and within academia, and innovation in large companies
 
 # Salesforce Part 2 2014-
 
 # VR Explorations 2014-
 
+Skills & topics:
+
+* 3D programming, especially the WebGL/three.js/WebVR stack
