@@ -5,9 +5,21 @@ title: Beau Cronin
 
 ---
 
+I am a technologist, an autodidact, a synthesizer, and a popularizer. I am always learning, and I tend to get restless once I have relied on any one skill for too long. I counteract my urge to move on by occasionally dedicating myself to longer projects that demand deeper knowledge - such as my PhD, or the book I am writing now. I have a hard time being interested in jobs that lend themselves to neat descriptions or titles. I am suspicious of mansplaining, and I can be dismissive of fields that are well enough defined and understood to allow for the arrogance of comfortable mastery. Myself, I'm pretty much always confused and overwhelmed.
+
+I enjoy drawing connections between ideas from different fields, and I am attracted to projects that benefit from a wide range of experience. I am energized when I can act as the bridge between different sensibilities and personality types, and I am cursed by an instinct to assume others’ point of view. I am wary of cut-and-dry, emotionally satisfying solutions to difficult problems, but I’m pretty ruthless about ignoring the details that specialists often (rightly) find important.
+
+In the past, I have been fixated on finding my one true calling - the single effort or subject that I could devote myself to completely and make into my life’s work. Recently, I have started to embrace my wandering nature, and I am shifting my focus more time-bounded projects, including an emphasis on bringing some fraction of them to a satisfying conclusion.
+
+Here's a bit on my messy journey, still very much in progress. It's in chronological order, since it's a story in progress, rather than a triumphant march of progress leading to This One Moment. The skills listed in each section were important at the time, but many of them have faded; the lessons, I hope, are more enduring.
+
 # College - UC Berkeley 1996-2000
 
 I knew I wanted to try and understand intelligence, and I bounced from neurology to cognitive science to, eventually, computer science. My AI class was a huge disappointment, since it was all symbols and planning. The neural nets class I took with Jerry Feldman was something else entirely - it was the first time I saw computers do something surprising.
+
+Skills & topics:
+
+* General computer science: architecture, data structures, algorithms
 
 # FrameNet 2000-2003
 
@@ -34,6 +46,8 @@ Skills & topics:
 * Systems neuroscience, including functional anatomy
 * Computational neuroscience, including models of neuronal response and plasticity
 * Bayesian statistics and probabilistic modeling/inference
+* Computational cognitive science
+* Scientific data analysis, Matlab
 
 Lessons:
 
@@ -48,6 +62,7 @@ Skills & Topics:
 * Stochastic hardware architecture
 * Data science process and workflow
 * Raising money and managing investors
+* Python
 
 Lessons:
 
@@ -65,6 +80,7 @@ Skills & topics:
 * Cloud service architecture and operations
 * Developer and community relations
 * Shipping
+* Python, Javascript
 
 # Salesforce Part 1 2012-2014
 
