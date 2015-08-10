@@ -14,6 +14,7 @@ I knew I wanted to try and understand intelligence, and I bounced from neurology
 After Cal, I worked for three years as the chief programmer of the FrameNet project, at the International Computer Science Institute.
 
 Skills & topics:
+
  * Computational linguistics 
  * Natural language processing
  * Enterprise Java development
