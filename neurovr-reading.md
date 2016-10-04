@@ -18,6 +18,7 @@ Neuroscience and VR have many points of connection. This list concentrates on th
 - David Eagleman, [**Can we create new senses for humans?**](https://www.ted.com/talks/david_eagleman_can_we_create_new_senses_for_humans?language=en)
 
 ## Papers and Review Articles
+- Spiers & Barry, **[Neural systems supporting navigation](https://drive.google.com/open?id=0B3D6TYvnvh2EeHpuajBIN3pPVkpIMWFXcmtxZFdmZVV6TG1V)**
 
 ## Posts
 
